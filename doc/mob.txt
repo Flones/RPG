@@ -1,0 +1,15 @@
+Type de mob:
+    - Farme: (50/100)
+        - Poule
+        - Vache
+        - Poisson
+    - Elite: (40/100)
+        - Lion
+        - Zombie
+        - Griffon
+    - Boss: (9/100)
+        - Titan -> Excalibure
+        - Dragon -> Emeraude du chaos
+        - Anaconda -> Tri-Force
+    - Big Boss:(1/100)
+        - Mike Roi # 1000
